@@ -1,0 +1,39 @@
+.title{
+  font-size: 30px;
+  overflow: hidden;padding: 10px;
+  text-align: center;
+  }
+.box{
+  border: 2px solid black;
+  width: 300px;
+  min-height: 350px;
+  display: flex;
+  flex-direction: column;
+  background-color:#f2f3f7 ;
+  justify-content: center;
+  align-items: center;
+}
+.text{
+  margin: 15px 0;
+  text-align: center;
+}
+.first{
+  margin: 10px;
+  width: 100px;
+}
+.last{
+  margin: 10px;
+  width: 100px;
+}
+
+.email{
+  width: 230px;
+  margin: 10px;
+}
+.password{
+  width: 230px;
+  margin: 10px;
+}
+.bottom{
+  font-size: 12px;
+}
